@@ -1,5 +1,5 @@
 pub fn run() {
-    // tableau de types
+    // tableau de données de différents types
     let person1: (&str, &str, i8) = ("Sacha", "Longueuil", 28);
     let person2 = ("Josiane", "Saint-Honoré", 27);
 
